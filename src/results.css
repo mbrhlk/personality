@@ -1,0 +1,14 @@
+.results {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column;
+  padding-bottom: 60px;
+}
+
+.graph {
+  display: inline-block;
+  height: 400px;
+  width: 80%;
+  margin: 5%;
+}
